@@ -1,6 +1,6 @@
 from django.contrib import admin
 from .models import *
-
+# jjjjjj
 
 class SubscriberAdmin (admin.ModelAdmin):
     # list_display = ["name", "email"]
